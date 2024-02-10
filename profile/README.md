@@ -1,4 +1,4 @@
-![Banner](/profile/banner.png)
+![Banner](/profile/Landing.png)
 
 
 # Welcome to Re/Mov 🚀
